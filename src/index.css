@@ -111,3 +111,6 @@ header button {
   color: var(--font-color-light);
   font-size: 0.8em;
 }
+.remove {
+  background-color: pink;
+}
